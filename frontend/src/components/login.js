@@ -29,7 +29,6 @@ const Login = (props) => {
             value={name}
             onChange={onChangeName}
           />
-          Beginning MERN Stack 122
         </Form.Group>
         <Form.Group>
           <Form.Label>ID</Form.Label>
